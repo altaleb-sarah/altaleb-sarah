@@ -8,12 +8,7 @@ Software Engineering Graduate | Machine Learning & Data Science
 
 ### 🚀 About Me
 
-Software Engineering graduate from Jouf University with hands-on experience in web development, database design, data analysis, and machine learning.
-
-- 💻 Contributed across the software development lifecycle, from requirements analysis and system design to implementation.
-- 📊 Worked on database reverse engineering, data verification and validation, and Power BI reporting during my training at Jouf University's Data Management Office.
-- 🌱 Currently completing the Saudi Digital Academy × Le Wagon Data Science Bootcamp and working on Bias Lens, an NLP project for text bias detection.
-
+Software Engineering graduate interested in AI, machine learning, and data science. I build web applications and data-driven solutions, combining software design, development, and machine learning.
 ---
 
 ### 🛠️ Core Technologies
